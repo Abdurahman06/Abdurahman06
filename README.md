@@ -1,9 +1,6 @@
-<h1 align="center">Привет👋 Меня зовут Абдурахман!</h1>
+<h1 align="center">Привет👋[](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) Меня зовут Абдурахман!</h1>
 ###
-<div align="center">
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+
     
  
 
